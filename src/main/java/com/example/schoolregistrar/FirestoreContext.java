@@ -12,7 +12,7 @@ public class FirestoreContext {
     public Firestore firebase() {
         try {
             FileInputStream serviceAccount =
-                    new FileInputStream("key.json");
+                    new FileInputStream("src/main/resources/com/example/schoolregistrar/key.json");
 
             FirebaseOptions options = FirebaseOptions.builder()
                     .setCredentials(GoogleCredentials.fromStream(serviceAccount))

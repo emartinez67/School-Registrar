@@ -8,7 +8,6 @@
 /dataSources/
 /dataSources.local.xml
 
-key.json
 =======
 target/
 !.mvn/wrapper/maven-wrapper.jar
@@ -23,7 +22,7 @@ target/
 *.iws
 *.iml
 *.ipr
-
+src/main/resources/com/example/schoolregistrar/key.json
 
 ### Eclipse ###
 .apt_generated
