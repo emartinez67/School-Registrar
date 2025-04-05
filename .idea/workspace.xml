@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="caf2b015-b281-4737-9954-1c832b57197c" name="Changes" comment="Days added to sections/schedule">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/key.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/schoolregistrar/FirestoreContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/schoolregistrar/FirestoreContext.java" afterDir="false" />
+    <list default="true" id="caf2b015-b281-4737-9954-1c832b57197c" name="Changes" comment="Git ignore">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/schoolregistrar/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/schoolregistrar/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/schoolregistrar/login.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/schoolregistrar/login.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/schoolregistrar/login.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/schoolregistrar/login.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +33,7 @@
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="schedule-conflicts" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,12 +44,12 @@
     &quot;assignee&quot;: &quot;franktorre99&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/emartinez67/School-Registrar.git",
-    "accountId": "8872f4ad-8476-4a1e-9062-26a5756fbc51"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/emartinez67/School-Registrar.git&quot;,
+    &quot;accountId&quot;: &quot;8872f4ad-8476-4a1e-9062-26a5756fbc51&quot;
   }
-}]]></component>
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -80,7 +81,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;css&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/home/dt/IdeaProjects/School-Registrar/target/classes/com/example/schoolregistrar&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -91,7 +92,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.JavaFX&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -271,7 +272,23 @@
       <workItem from="1714657378447" duration="70000" />
       <workItem from="1714672464796" duration="778000" />
       <workItem from="1714834427458" duration="5282000" />
-      <workItem from="1725992278682" duration="125000" />
+      <workItem from="1725992278682" duration="599000" />
+      <workItem from="1726339978415" duration="3855000" />
+      <workItem from="1726596082554" duration="7000" />
+      <workItem from="1726752692479" duration="33000" />
+      <workItem from="1726778718459" duration="785000" />
+      <workItem from="1727133036157" duration="20000" />
+      <workItem from="1738175089908" duration="892000" />
+      <workItem from="1738608983042" duration="72000" />
+      <workItem from="1741625581712" duration="672000" />
+      <workItem from="1741802842573" duration="3000" />
+      <workItem from="1743612127308" duration="44000" />
+      <workItem from="1743614061095" duration="270000" />
+      <workItem from="1743627891407" duration="31000" />
+      <workItem from="1743628098249" duration="55000" />
+      <workItem from="1743629171308" duration="41000" />
+      <workItem from="1743630966793" duration="35000" />
+      <workItem from="1743877390756" duration="99000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <option name="closed" value="true" />
@@ -417,7 +434,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714837232336</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Git ignore">
+      <option name="closed" value="true" />
+      <created>1725992430342</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1725992430342</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -464,7 +489,8 @@
     <MESSAGE value="Submit final grade working" />
     <MESSAGE value="Forgot Password now fully works + CSS files for Login and Forgot Password" />
     <MESSAGE value="Days added to sections/schedule" />
-    <option name="LAST_COMMIT_MESSAGE" value="Days added to sections/schedule" />
+    <MESSAGE value="Git ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Git ignore" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
